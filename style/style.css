@@ -1,0 +1,30 @@
+ul , li , a{margin:0 ; padding:0}
+.top_head{width:1200px ; height:150px ; margin-right:auto ; margin-left:auto}
+#logo{float:right ; margin-right:100px ; margin-top:20px}
+#name_school{float:left ; margin-left:500px ; margin-top:80px ; font-size:50px ; color:#0A597A}
+.nev{width:1200px ; height:30px ; margin-right:auto ; margin-left:auto ; background:#3f86bc}
+.nev ul li{float:right ; margin-right:20px ; list-style:none ; margin-top:3px}
+.nev ul li a{text-decoration:none ; color:#000000}
+.nev ul li a:hover{color:#F9F9F9 ; border-bottom:#000000 solid 0px}
+.nev form input{margin-top:3px ; margin-left:10px}
+.center{width:1200px ; margin-right:auto ; margin-left:auto ; border:#000000 solid 0px ; margin-top:10px}
+.r_center{width:250px ; float:right ; border-left:#0A597A solid 1px}
+.c_center{width:650px ; float:right ; border:#0A597A solid 0px ; margin-right:22px}
+.l_center{width:250px ; float:left ; border-right:#0A597A solid 1px}
+.footer{width:1200px ; margin-top:10px ; margin-right:auto ; margin-left:auto ; background:#3f86bc ; border:#000000 solid 1px}
+.dow_footer{width:100% ; font-size:18px ; text-align:center ; color:#000000}
+.news{width:1200px ; height:20px ; margin-right:auto ; margin-left:auto ; font-size:18px ; clear:none ; padding-top:5px ; padding-bottom:5px ; background:#8FABB3}
+.block_head{height:30px ; text-align:center ; background:#3f86bc ; border:#000000 solid 1px ; font-size:18px}
+.block_body{}
+.block_body p{text-align:justify ; padding:2px ; font-size:17px ; direction:rtl ; color:#1D2CD4}
+.menu{direction:rtl}
+.menu ul{}
+.menu ul li{list-style:none}
+.menu ul li a{text-decoration:none ; font-size:18px ; display:block ; border-bottom:#0C516E solid 2px ; padding:3px}
+.menu ul li a:hover{border-bottom:#ABC711 solid 2px ; color:#E11215 ; background:#86CFED}
+.suled{border:#000000 solid 1px ; margin-bottom:10px}
+.clear{clear:both}
+.tech{border:#0A597A solid 1px ; margin-top:5px ; padding:2px}
+.tech img{float:left ; margin-right:5px}
+.tech h4{font-size:18px ; color:#ED1316 ; margin:2px ; text-align:right}
+.tech p{text-align:right ; margin:2px}

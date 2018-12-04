@@ -1,0 +1,15 @@
+ul , li ,  a{padding:0 ; margin:0}
+body{padding:0 ; margin:0 ; background:#A6D4E7}
+.head_block{text-align:center ; background:#0A597A ; color:#F0EAEA ; padding:5px}
+.body_block{text-align:right ; direction:rtl }
+.head_m{text-align:center ; background:#197297 ; color:#F5F5F5 ; font-size:24px}
+.body_m{}
+.body_m ul{}
+.body_m ul li{list-style:none ; }
+.body_m ul li a{text-decoration:none ; display:block ; border-bottom:#0A597A solid 1px ; text-align:center ; font-size:18px}
+.body_m ul li a:hover{border-bottom:#79D915 solid 1px ; background:#07AAEF ; color:#F8F5F5 }
+.ok_send{width:"90%" ; padding:10px ; margin-left:auto ; margin-right:auto ; font-size:16px ; border:#000000 solid 1px ; text-align:center ; color:#0C880A ; margin-bottom:50px ; margin-top:20px ; background:#FFFFFF}
+.body_block table{border:#083446 solid 1px ; margin-top:20px}
+.body_block table  tr th{border:#083446 solid 1px ; text-align:center ; background:#0C4D68 ; color:#F9F5F6}
+.body_block table  tr td{border:#083446 solid 1px ; text-align:center}
+.add h3{text-align:center ; font-size:18px}
